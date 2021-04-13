@@ -1,0 +1,1 @@
+# Hibernate Configuration param description
